@@ -12,5 +12,5 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
-DEVICE_PACKAGE_OVERLAYS += device/bn/common/overlay/cm
+DEVICE_PACKAGE_OVERLAYS += device/bn/common/overlay
 

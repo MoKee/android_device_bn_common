@@ -23,7 +23,7 @@ COMMON_FOLDER := device/bn/common
 BOARD_VENDOR := bn
 
 # add common overlays
-DEVICE_PACKAGE_OVERLAYS += $(COMMON_FOLDER)/overlay/aosp
+DEVICE_PACKAGE_OVERLAYS += $(COMMON_FOLDER)/overlay
 
 # Setup custom omap4xxx defines
 BOARD_USE_CUSTOM_LIBION := true
